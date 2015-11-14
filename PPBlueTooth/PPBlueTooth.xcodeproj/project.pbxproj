@@ -21,6 +21,7 @@
 		3DF4ABAB1BF3D81F00A77926 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DF4ABAA1BF3D81F00A77926 /* CoreLocation.framework */; };
 		3DF4ABB11BF5954E00A77926 /* PlayerCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF4ABB01BF5954E00A77926 /* PlayerCharacter.m */; };
 		3DF4ABB41BF7B3B400A77926 /* PlayerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF4ABB31BF7B3B400A77926 /* PlayerManager.m */; };
+		9A681D201BF7CF6300818E98 /* GamePlayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A681D1F1BF7CF6300818E98 /* GamePlayViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,8 @@
 		3DF4ABB01BF5954E00A77926 /* PlayerCharacter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerCharacter.m; sourceTree = "<group>"; };
 		3DF4ABB21BF7B3B400A77926 /* PlayerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerManager.h; sourceTree = "<group>"; };
 		3DF4ABB31BF7B3B400A77926 /* PlayerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerManager.m; sourceTree = "<group>"; };
+		9A681D1E1BF7CF6300818E98 /* GamePlayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GamePlayViewController.h; sourceTree = "<group>"; };
+		9A681D1F1BF7CF6300818E98 /* GamePlayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GamePlayViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +134,8 @@
 				3DF4ABB31BF7B3B400A77926 /* PlayerManager.m */,
 				3D3921071BF11C23003C7C81 /* StartScreenVC.h */,
 				3D3921081BF11C23003C7C81 /* StartScreenVC.m */,
+				9A681D1E1BF7CF6300818E98 /* GamePlayViewController.h */,
+				9A681D1F1BF7CF6300818E98 /* GamePlayViewController.m */,
 				3D39210A1BF11C23003C7C81 /* Main.storyboard */,
 				3D39210D1BF11C23003C7C81 /* Assets.xcassets */,
 				3D39210F1BF11C23003C7C81 /* LaunchScreen.storyboard */,
@@ -301,6 +306,7 @@
 			files = (
 				3DF4ABB41BF7B3B400A77926 /* PlayerManager.m in Sources */,
 				3D3921091BF11C23003C7C81 /* StartScreenVC.m in Sources */,
+				9A681D201BF7CF6300818E98 /* GamePlayViewController.m in Sources */,
 				3D3921061BF11C23003C7C81 /* AppDelegate.m in Sources */,
 				3DF4ABB11BF5954E00A77926 /* PlayerCharacter.m in Sources */,
 				3D3921031BF11C23003C7C81 /* main.m in Sources */,
